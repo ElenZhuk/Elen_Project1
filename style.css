@@ -1,0 +1,24 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* h1 {
+    color: blue;
+} */
+
+a {
+    color: rgb(12, 35, 241);
+}
+
+.imp {
+    color: rgb(13, 28, 236);
+}
+
+#txt1 {
+    color: red;
+}
+
+p {
+    color: royalblue;
+}
